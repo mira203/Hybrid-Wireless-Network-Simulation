@@ -15,14 +15,14 @@ Network Segments: Separation of the wireless infrastructure into two distinct wi
 Service Integration: Includes dedicated servers (Server 0 & Server 1) likely acting as DHCP, DNS, or HTTP servers to provide network services to wireless clients.
 End-to-End Connectivity: Full routing established between the enterprise wing (left) and the home wing (right).
 
-**● Supported Devices**
+**● Supported Devices:**
 
 The topology manages a variety of end-devices including:
 Smartphones (Android/iOS simulation)
 Laptops (Wireless NICs)
 Desktop PCs (Wired & Wireless)
 
-**● Topology Architecture**
+**● Topology Architecture:**
 
 Core: Cisco 2911 Router.
 Distribution: 2960 Switches.
